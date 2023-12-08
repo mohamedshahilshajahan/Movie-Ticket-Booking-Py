@@ -1,6 +1,12 @@
 <h1>Project Details:</h1>
+<h2>#First Create the Database after run this program because I integrate with Sql#
+#Create Database name as logindetails#
+#Create Table name as userdatas#
+{To modify the database and table names, ensure to make corresponding updates in the code.}
+''Create 6 Columns''
+'username','password','city','Moviename','seatname','Amount'.</h2>
 
-
+  
 <h1>About me:</h1>
 <h1 align="center">Hi 👋, I'm Mohamed Shahil</h1>
 <h3 align="center">A passionate software enthusiast diving into the exciting world of development!<br>
