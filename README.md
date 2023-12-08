@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shahil</h1>
 <h3 align="center">A passionate software enthusiast diving into the exciting world of development!<br>
-  <h4 align="center">🚀 As a recent graduate with a Diploma in ECE (2018),</h4> <h3 align="center">I am eager to establish a robust foundation in Software Development, focusing on Python, Java, C, and C++.</h3><br>
-  <h4 align="center">💡 My journey is just beginning, and I've already taken my first steps by creating a project.<br>
+  <h4 align="center">🚀 As a recent graduate with a Diploma in ECE (2018),</h4> <h3 align="center">I am eager to establish a robust foundation in Software Development, focusing on Python, Java, C, and C++.<br>
+  💡 My journey is just beginning, and I've already taken my first steps by creating a project.<br>
   🛠️ As a beginner, I'm committed to continuously enhancing my skills and contributing to the ever-evolving tech landscape.<br>
-  🌐 I'm thrilled about the endless possibilities in software development and am dedicated to mastering the intricacies of coding.</h4><br>
+  🌐 I'm thrilled about the endless possibilities in software development and am dedicated to mastering the intricacies of coding.</h3><br>
   
   <h3 align="center">My goal is to build a solid skill set that not only meets industry standards but also pushes the boundaries of innovation.<br>
   
