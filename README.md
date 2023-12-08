@@ -8,7 +8,7 @@
 
 <h4>In Screen Size Adjust window height and width size in this line 'x.geometry("550x350+{}+{}".format(x_pos, y_pos))'</h4><br>
 
-<img src="https://drive.google.com/uc?export=view&id=[IMAGE_ID]" alt="Opening Screen">
+
   
 
 
