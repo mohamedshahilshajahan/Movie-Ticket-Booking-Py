@@ -1,3 +1,7 @@
+<h1>Project Details:</h1>
+
+
+<h1>About me:</h1>
 <h1 align="center">Hi 👋, I'm Mohamed Shahil</h1>
 <h3 align="center">A passionate software enthusiast diving into the exciting world of development!<br>
   <h4 align="center">🚀 As a recent graduate with a Diploma in ECE (2018),</h4> <h3 align="center">I am eager to establish a robust foundation in Software Development, focusing on Python, Java, C, and C++.<br>
