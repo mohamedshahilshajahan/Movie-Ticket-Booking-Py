@@ -14,8 +14,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedshahilshajahan&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedshahilshajahan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedshahilshajahan" alt="mohamedshahilshajahan" /></a> </p>
-
 - 📫 How to reach me **mohamedshahilshajahan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
