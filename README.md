@@ -3,19 +3,19 @@
 #Create Database name as logindetails#<br>
 #Create Table name as userdatas#<br>
 {To modify the database and table names, ensure to make corresponding updates in the code.}<br>
-''Create 6 Columns''<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;''Create 6 Columns''<br>
 'username','password','city','Moviename','seatname','Amount'.</h2><br>
 
-<img align="CENTER" src="Project Screenshots/1.png" alt="create columns in sql"><br>
-<h3 align="CENTER">In Screen Size Adjust window height and width size in this line 'x.geometry("550x350+{}+{}".format(x_pos, y_pos))'</h3><br>
-<img align="CENTER" src="Project Screenshots/2.png" alt="create columns in sql">
-<img align="CENTER" src="Project Screenshots/3.png" alt="create columns in sql">
-<img align="CENTER" src="Project Screenshots/4.png" alt="create columns in sql">
-<img align="CENTER" src="Project Screenshots/5.png" alt="create columns in sql">
-<img align="CENTER" src="Project Screenshots/6.png" alt="create columns in sql">
-<img align="CENTER" src="Project Screenshots/7.png" alt="create columns in sql">
-<img align="CENTER" src="Project Screenshots/8.png" alt="create columns in sql">
-<img align="CENTER" src="Project Screenshots/9.png" alt="create columns in sql">
+<img src="Project Screenshots/1.png" alt="create columns in sql"><br>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Screen Size Adjust window height and width size in this line<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'x.geometry("550x350+{}+{}".format(x_pos, y_pos))'</h3><br>
+<img src="Project Screenshots/2.png" alt="create columns in sql">
+<img src="Project Screenshots/3.png" alt="Film Buff Interface Window">
+<img src="Project Screenshots/4.png" alt="Sign Up Window">
+<img src="Project Screenshots/5.png" alt="City & Movie Selection Window">
+<img src="Project Screenshots/6.png" alt="After City Selection Window">
+<img src="Project Screenshots/7.png" alt="Seat Selection & Ticket Booked Succefully window window">
+<img src="Project Screenshots/8.png" alt="Login Window">
+<img src="Project Screenshots/9.png" alt="Datas Stored in SQL">
 
 <h1>About me:</h1>
 <h1 align="center">Hi 👋, I'm Mohamed Shahil</h1>
