@@ -18,7 +18,7 @@
 <img src="Project Screenshots/9.png" alt="Datas Stored in SQL">
 
 <h1>About me:</h1>
-<h1 align="center">Hi 👋, I'm Mohamed Shahil</h1>
+<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7DC00&center=true&vCenter=true&random=false&width=550&height=32&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Shahil" alt="Typing SVG" /></h1>
 
 <h3 align="center">A passionate software enthusiast diving into the exciting world of development!<br>
   <h4 align="center">🚀 As a recent graduate with a Diploma in ECE (2018),</h4> <h3 align="center">I am eager to establish a robust foundation in Software Development, focusing on Python, Java, C, and C++.<br>
