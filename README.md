@@ -6,16 +6,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;''Create 6 Columns''<br>
 'username','password','city','Moviename','seatname','Amount'.</h2><br>
 
-<img src="https://i.postimg.cc/nzKPgZBx/1.png" alt="create columns in sql" style="max-width: 100%; height: auto;"><br>
+<img src="https://i.postimg.cc/nzKPgZBx/1.png" alt="create columns in sql"><br>
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Screen Size Adjust window height and width size in this line<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'x.geometry("550x350+{}+{}".format(x_pos, y_pos))'</h3><br>
-<img src="https://i.postimg.cc/5N2R7h0c/2.png" alt="create columns in sql" style="max-width: 100%; height: auto;">
-<img src="https://i.postimg.cc/kMcHyJ7F/3.png" alt="Film Buff Interface Window" style="max-width: 100%; height: auto;">
-<img src="https://i.postimg.cc/0yLXNrCx/4.png" alt="Sign Up Window" style="max-width: 100%; height: auto;">
-<img src="https://i.postimg.cc/bNVFKmDZ/5.png" alt="City & Movie Selection Window" style="max-width: 100%; height: auto;">
-<img src="https://i.postimg.cc/x8tFjR6F/6.png" alt="After City Selection Window" style="max-width: 100%; height: auto;">
-<img src="https://i.postimg.cc/SRyvp5fM/7.png" alt="Seat Selection & Ticket Booked Succefully window window" style="max-width: 100%; height: auto;">
-<img src="https://i.postimg.cc/ydCGLWJn/8.png" alt="Login Window" style="max-width: 100%; height: auto;">
-<img src="https://i.postimg.cc/0y6Hx7Dc/9.png" alt="Datas Stored in SQL" style="max-width: 100%; height: auto;">
+<img src="https://i.postimg.cc/5N2R7h0c/2.png" alt="create columns in sql">
+<img src="https://i.postimg.cc/kMcHyJ7F/3.png" alt="Film Buff Interface Window">
+<img src="https://i.postimg.cc/0yLXNrCx/4.png" alt="Sign Up Window">
+<img src="https://i.postimg.cc/bNVFKmDZ/5.png" alt="City & Movie Selection Window">
+<img src="https://i.postimg.cc/x8tFjR6F/6.png" alt="After City Selection Window">
+<img src="https://i.postimg.cc/SRyvp5fM/7.png" alt="Seat Selection & Ticket Booked Succefully window window">
+<img src="https://i.postimg.cc/ydCGLWJn/8.png" alt="Login Window">
+<img src="https://i.postimg.cc/0y6Hx7Dc/9.png" alt="Datas Stored in SQL">
 
 <h2>About me:</h2>
 <h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7DC00&center=true&vCenter=true&random=false&width=550&height=32&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Shahil" alt="Typing SVG" /></h1>
