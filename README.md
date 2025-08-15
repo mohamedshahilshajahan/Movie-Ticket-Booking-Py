@@ -16,29 +16,83 @@
 <img src="https://i.postimg.cc/HLyzbRMD/7.jpg" alt="Seat Selection & Ticket Booked Succefully window window" width=100% height=auto/>
 <img src="https://i.postimg.cc/Wb55VMVK/8.jpg" alt="Login Window" width=100% height=auto/>
 <img src="https://i.postimg.cc/7ZbmZfYL/9.jpg" alt="Datas Stored in SQL" width=100% height=auto/>
+<h2></h2>
+<h3>About me:</h3> <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1AF7E6&multiline=true&width=650&lines=Hi%F0%9F%98%8E%2C+I+am+Mohamed+Shahil+Shajahan" alt="Typing SVG" /></a></h1>
 
-<h2>About me:</h2>
-<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7DC00&center=true&vCenter=true&random=false&width=550&height=32&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Shahil" alt="Typing SVG" /></h1>
+ <h3 align="center">🚀 Open-Source & Freelance Developer | Turning Ideas into Tools</h3>
 
-<h3 align="center">A passionate software enthusiast diving into the exciting world of development!<br>
-  <h4 align="center">🚀 As a recent graduate with a Diploma in ECE (2018),</h4> <h3 align="center">I am eager to establish a robust foundation in Software Development, focusing on Python, Java, C, and C++.<br>
-  💡 My journey is just beginning, and I've already taken my first steps by creating a project.<br>
-  🛠️ As a beginner, I'm committed to continuously enhancing my skills and contributing to the ever-evolving tech landscape.<br>
-  🌐 I'm thrilled about the endless possibilities in software development and am dedicated to mastering the intricacies of coding.</h3>
-  <h3 align="center">My goal is to build a solid skill set that not only meets industry standards but also pushes the boundaries of innovation.<br>
-  📚 Lifelong learning is my mantra, and I believe in the power of collaboration. Let's connect, learn, and grow together on this coding adventure! 🤝 </h3>
+<h4 align="center">💡 Passionate about building practical, smart, and user-friendly solutions.</h4>
+
+<h3 align="center">
+  With a foundation in tech and a love for problem-solving, Currently learning Windows app development, building automation with Google Apps Script, and experimenting with new ways to make technology more useful.<br><br>
   
- <h2 align="center"> #CodeNewbie #Python #Java #Cplusplus #SoftwareDevelopment #TechEnthusiast</h2>
+  🛠️ From simple productivity tools to efficient desktop utilities, I enjoy crafting solutions that just work.<br>
+  🌐 Open source is my playground — I believe in sharing knowledge and collaborating to create better tech for everyone.<br>
+  📚 Always learning, always improving — because great software is built on curiosity and persistence.
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedshahilshajahan&label=Profile%20views&color=red&style=flat" alt="mohamedshahilshajahan" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 📫 You can contact me at **mohamedshahilshajahan@gmail.com**
+<h3 align="center">
+  Let’s build something awesome together — one project at a time. 🤝
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://www.linkedin.com/in/mohamedshahilshajahan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/02ZQ9ft7/linkedin-dark.png" /> <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/XvKFcFjL/linkedin.png" /> <img src="https://i.postimg.cc/XvKFcFjL/linkedin.png" width="35" height=auto />&nbsp; </picture> </a><a href="https://www.github.com/mohamedshahilshajahan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/Bn6vbKyk/github-dark.png" /> <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/LsFL1vph/github.png" /> <img src="https://i.postimg.cc/LsFL1vph/github.png" width="32" height="32" /> </picture> </a> </p>
+<h2 align="center">#OpenSource #FreelanceDeveloper #GoogleAppsScript #Automation #TechEnthusiast</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://i.postimg.cc/DZdk7s4J/c.png" alt="c" width="40" height=auto/>&nbsp;&nbsp;<img src="https://i.postimg.cc/br37thTq/cplus.png" alt="cplusplus" width="40" height=auto/>&nbsp;&nbsp;<img src="https://i.postimg.cc/0jkgjQ7t/java.png" alt="java" width="40" height=auto/>&nbsp;&nbsp;<img src="https://i.postimg.cc/T20MSVXB/python.png" alt="python" width="40" height=auto/> </p>
+<p align="left">
+  <img 
+    src="https://komarev.com/ghpvc/?username=mohamedshahilshajahan&label=Profile%20views&color=blueviolet&style=flat" 
+    alt="mohamedshahilshajahan" 
+    width="200" 
+    height="40" 
+  />
+</p>
+
+<img align="right" alt="Coding" width="300" src="https://i.postimg.cc/CL981DpX/DEVELOPER.gif">
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top">
+      <h3 align="left">Connect with me:</h3>
+      <p align="left">
+        <a href="https://www.linkedin.com/in/mohamedshahilshajahan" target="_blank" rel="noreferrer">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/02ZQ9ft7/linkedin-dark.png" />
+            <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/XvKFcFjL/linkedin.png" />
+            <img src="https://i.postimg.cc/XvKFcFjL/linkedin.png" width="35" height="auto" />
+          </picture>
+        </a>
+        &nbsp;
+        <a href="https://www.github.com/mohamedshahilshajahan" target="_blank" rel="noreferrer">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/Bn6vbKyk/github-dark.png" />
+            <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/LsFL1vph/github.png" />
+            <img src="https://i.postimg.cc/LsFL1vph/github.png" width="32" height="32" />
+          </picture>
+        </a>
+      </p>
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshahilshajahan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">Support:</h3>
+
+<div align="left" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://www.buymeacoffee.com/jazzboss@upi">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jazzboss@upi" />
+  </a>
+  <a href="https://paypal.me/MohamedShahil">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" width="210" />
+  </a>
+</div>
+
+
+<p>
+</p>
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=flat&logo=opensea&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=flat&logo=tampermonkey&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white)
 
 
 
