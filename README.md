@@ -82,11 +82,22 @@
   <a href="https://buymeacoffee.com/mohamedshahilshajahan">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedshahilshajahan" />
   </a>
+  <a>
+    <img src="https://i.postimg.cc/XJw4pBRg/gpay.png" height="50" width=auto alt="mohamedshahilshajahan" />
+  </a>
   <a href="https://paypal.me/MohamedShahil">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" width="210" />
+    <img src="https://i.postimg.cc/d3WThfdv/paypal.png" height="55" width=auto />
   </a>
 </div>
 
+<div align="left" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://buymeacoffee.com/mohamedshahilshajahan">
+    <img src="https://i.postimg.cc/xj76pphB/bmc-qr.png" height="210" width=auto alt="mohamedshahilshajahan" />
+  </a>
+  <a>
+    <img src="https://i.postimg.cc/5NrjCLHB/BHIM-QR.png" height="215" width=auto />
+  </a>
+</div>
 
 <p>
 </p>
